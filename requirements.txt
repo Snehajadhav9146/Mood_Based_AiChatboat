@@ -1,0 +1,6 @@
+streamlit==1.25.0
+textblob==0.17.1
+nltk>=3.8.1
+gTTS==2.3.2
+speechrecognition==3.9.0
+googletrans==4.0.0-rc1
